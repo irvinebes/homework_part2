@@ -2,6 +2,7 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("Задача 1.");
+
         int a = -2037583;
         byte b = 127;
         short c = 30000;
@@ -16,6 +17,7 @@ public class Main {
         System.out.println("Значение переменной f с типом double равно " + f);
 
         System.out.println("Задача 2.");
+
         float ab = 27.12F;
         long bb = 987678965549L;
         float cb = 2.786F;
@@ -26,6 +28,7 @@ public class Main {
         byte gb = 67;
 
         System.out.println("Задача 3.");
+
         byte teacher1 = 23;
         byte teacher2 = 27;
         byte teacher3 = 30;
@@ -34,6 +37,7 @@ public class Main {
         System.out.println("На каждого ученика рассчитано " + (personalPaper) + " листов бумаги.");
 
         System.out.println("Задача 4.");
+
         byte oneBottle = 16 / 2;
         int mashine1Power = oneBottle * 20;
         int mashine2Power = oneBottle * 24 * 60;
@@ -45,6 +49,7 @@ public class Main {
         System.out.println("За 1 месяц работы машина произвела бутылок " + mashine4Power + " штук.");
 
         System.out.println("Задача 5.");
+
         byte totalColors = 120;
         byte whiteColor = 2;
         byte brownColor = 4;
@@ -55,6 +60,7 @@ public class Main {
         System.out.println("В школе, где " + totalClasses + " классов, нужно " + totalWhiteColor + " банок белой краски и " + totalBrownColor + " банок коричневой краски.");
 
         System.out.println("Задача 6.");
+
         short bananaWeight = 5 * 80;
         short milkWeight = 2 * 105;
         short iceWeight = 2 * 100;
@@ -64,6 +70,7 @@ public class Main {
         System.out.println("Общий вес спорт-завтрака в килограммах: " + (totalWeightGr / 1000));
 
         System.out.println("Задача 7.");
+
         byte goalWeight = 7;
         float perDay1Weight = 0.25F;
         float perDay2Weight = 0.5F;
